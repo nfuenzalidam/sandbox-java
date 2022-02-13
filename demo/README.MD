@@ -1,5 +1,7 @@
-##SANDBOX DEMO
-####- IDE Utilizado: IntelliJ IDEA CE
+SANDBOX DEMO
+
+IDE Utilizado: IntelliJ IDEA CE
+
 
 | TOOLSET     | COMENTARIO                                                       | PRE-REQUISITO                                                        |
 |-------------|------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -9,6 +11,8 @@
 
 ###### ** REVISAR ARCHIVO .ENV **
 
-###### Test:
-###### En directorio del proyecto ejecutar "docker-compose up"
-###### Una vez levantado el proyecto en el contenedor, abrir http://localhost:8080/
+Test:
+
+En directorio del proyecto ejecutar "docker-compose up"
+
+Una vez levantado el proyecto en el contenedor, abrir http://localhost:8080/
